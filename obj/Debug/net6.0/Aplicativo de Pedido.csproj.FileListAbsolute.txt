@@ -1,0 +1,32 @@
+C:\Users\lleod\source\repos\Aplicativo de Pedido\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lleod\source\repos\Aplicativo de Pedido\bin\Debug\net6.0\appsettings.json
+C:\Users\lleod\source\repos\Aplicativo de Pedido\bin\Debug\net6.0\Aplicativo de Pedido.exe
+C:\Users\lleod\source\repos\Aplicativo de Pedido\bin\Debug\net6.0\Aplicativo de Pedido.deps.json
+C:\Users\lleod\source\repos\Aplicativo de Pedido\bin\Debug\net6.0\Aplicativo de Pedido.runtimeconfig.json
+C:\Users\lleod\source\repos\Aplicativo de Pedido\bin\Debug\net6.0\Aplicativo de Pedido.dll
+C:\Users\lleod\source\repos\Aplicativo de Pedido\bin\Debug\net6.0\Aplicativo de Pedido.pdb
+C:\Users\lleod\source\repos\Aplicativo de Pedido\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lleod\source\repos\Aplicativo de Pedido\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lleod\source\repos\Aplicativo de Pedido\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lleod\source\repos\Aplicativo de Pedido\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\Aplicativo de Pedido.csproj.AssemblyReference.cache
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\Aplicativo de Pedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\Aplicativo de Pedido.AssemblyInfoInputs.cache
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\Aplicativo de Pedido.AssemblyInfo.cs
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\Aplicativo de Pedido.csproj.CoreCompileInputs.cache
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\Aplicativo de Pedido.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\Aplicativo de Pedido.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\staticwebassets\msbuild.Aplicativo de Pedido.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\staticwebassets\msbuild.build.Aplicativo de Pedido.props
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Aplicativo de Pedido.props
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Aplicativo de Pedido.props
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\scopedcss\bundle\Aplicativo de Pedido.styles.css
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\Aplicativo de Pedido.csproj.CopyComplete
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\Aplicativo de Pedido.dll
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\refint\Aplicativo de Pedido.dll
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\Aplicativo de Pedido.pdb
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\Aplicativo de Pedido.genruntimeconfig.cache
+C:\Users\lleod\source\repos\Aplicativo de Pedido\obj\Debug\net6.0\ref\Aplicativo de Pedido.dll
