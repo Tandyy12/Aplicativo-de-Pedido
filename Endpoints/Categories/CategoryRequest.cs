@@ -2,5 +2,6 @@
 {
     public class CategoryRequest
     {
+        public String Name { get; set; }
     }
 }

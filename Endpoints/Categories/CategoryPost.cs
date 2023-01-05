@@ -1,4 +1,5 @@
-﻿using Aplicativo_de_Pedido.infra.Data;
+﻿using Aplicativo_de_Pedido.Domain.Products;
+using Aplicativo_de_Pedido.infra.Data;
 
 namespace Aplicativo_de_Pedido.Endpoints.Categories
 {
@@ -10,7 +11,13 @@ namespace Aplicativo_de_Pedido.Endpoints.Categories
 
         public static IResult Action(CategoryRequest categoryRequest, ApplicationDbContext context) 
         {
-            return Results.Ok("Ok");
+            var category = new Category
+            {
+                Name = categoryRequest.Name
+            };
+            context.Categories.Add(category);
+            context.SaveChanges();
+            return Results.Created($"/Categories/{category.Id}", category.Id);
         }
     }
 }
