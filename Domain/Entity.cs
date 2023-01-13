@@ -1,11 +1,14 @@
-﻿namespace Aplicativo_de_Pedido.Domain
+﻿using Flunt.Notifications;
+
+namespace Aplicativo_de_Pedido.Domain
 {
-    public abstract class Entity
+    public abstract class Entity : Notifiable<Notification>
     {
         public Entity()
         {
             Id= Guid.NewGuid();
         }
+
         public Guid Id { get; set; }
         public String Name { get; set; }
         public String Createdby { get; set; }

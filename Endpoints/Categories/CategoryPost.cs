@@ -11,16 +11,16 @@ namespace Aplicativo_de_Pedido.Endpoints.Categories
 
         public static IResult Action(CategoryRequest categoryRequest, ApplicationDbContext context) 
         {
-            var category = new Category
+
+            var category = new Category(categoryRequest.Name, "Test", "Test");
+            if(!category.IsValid) 
             {
-                Name = categoryRequest.Name,
-                Createdby = "Teste",
-                CreatedOn= DateTime.Now,
-                Editedby="Test",
-                EditedOn= DateTime.Now,
-            };
+                return Results.BadRequest(category.Notifications);
+            }
+
             context.Categories.Add(category);
             context.SaveChanges();
+
             return Results.Created($"/Categories/{category.Id}", category.Id);
         }
     }

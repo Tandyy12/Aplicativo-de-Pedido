@@ -1,4 +1,5 @@
 ﻿using Aplicativo_de_Pedido.Domain.Products;
+using Flunt.Notifications;
 using Microsoft.EntityFrameworkCore;
 namespace Aplicativo_de_Pedido.infra.Data
 {
@@ -11,6 +12,8 @@ namespace Aplicativo_de_Pedido.infra.Data
 
         protected override void OnModelCreating(ModelBuilder builder) 
         {
+            builder.Ignore<Notification>();
+            
             builder.Entity<Product>()  //Criando parâmetro para o Product onde o nome se torna obrigatório
                 .Property(p => p.Name).IsRequired();
             builder.Entity<Product>() // Criando parâmetro para o Product onde a Descriptio só pode ter o máximo de 255 caracteres  
