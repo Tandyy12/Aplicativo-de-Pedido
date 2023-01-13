@@ -23,6 +23,8 @@ internal class Program
         app.UseHttpsRedirection();
 
         app.MapMethods(CategoryPost.Tamplate, CategoryPost.Methods, CategoryPost.Handle);
+        app.MapMethods(CategoryGetAll.Tamplate, CategoryGetAll.Methods, CategoryGetAll.Handle);
+        app.MapMethods(CategoryPut.Tamplate, CategoryPut.Methods, CategoryPut.Handle);
 
         app.Run();
     }
